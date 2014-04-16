@@ -27,7 +27,7 @@ public class ImageToString {
 			}
 			System.out.println("");
 		}
-
+		
 		return null ;
 	}
 
