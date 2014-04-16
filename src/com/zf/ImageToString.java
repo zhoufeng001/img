@@ -16,7 +16,7 @@ public class ImageToString {
 				try {
 					color = new Color(image.getRGB(j , i));
 				} catch (Exception e) {
-					System.err.println(i + " " + j);
+					System.err.println(i + " " + j);  
 				}  
 				r = color.getRed() ;
 				if(r == 0){
